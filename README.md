@@ -15,4 +15,4 @@ Nail Disease dataset: https://github.com/Shibarashii/nail-disease-classifier/tre
 <img width="676" height="559" alt="Image" src="https://github.com/user-attachments/assets/b2c513a7-4ab8-4319-ab12-03a11be624a9" />
 
 - Loss per Epoch, Accuracy per Epoch
-<img width="676" height="559" alt="Image" src="https://github.com/user-attachments/assets/b2c513a7-4ab8-4319-ab12-03a11be624a9" />
+<img width="791" height="312" alt="Image" src="https://github.com/user-attachments/assets/8ef75cee-5a0a-4532-a490-5211f768ee9b" />
